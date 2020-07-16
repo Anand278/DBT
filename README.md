@@ -1,2 +1,2 @@
 # DBT
-DBT work
+RDBMS work
